@@ -1,7 +1,7 @@
 {
-    "name": "behat/web-api-extension",
+    "name": "trackq/web-api-extension",
     "type": "behat-extension",
-    "description": "Web API extension for Behat",
+    "description": "Web API extension for Behat with phpmatcher",
     "keywords": ["api", "test"],
     "homepage": "http://extensions.behat.org",
     "license": "MIT",
