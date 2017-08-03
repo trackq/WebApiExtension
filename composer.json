@@ -20,7 +20,8 @@
         "php": ">=5.4",
         "behat/behat": "~3.0",
         "guzzlehttp/guzzle": "4 - 6",
-        "phpunit/phpunit": "4 - 5"
+        "phpunit/phpunit": "4 - 5",
+        "coduo/php-matcher": "^2.2"
     },
 
     "require-dev": {
