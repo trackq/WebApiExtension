@@ -30,7 +30,8 @@
 
     "autoload": {
         "psr-4": {
-            "trackq\\WebApiExtension\\": "src/"
+            "trackq\\WebApiExtension\\": "src/",
+            "Behat\\WebApiExtension\\": "src/"
         }
     },
 
