@@ -5,8 +5,7 @@
     "keywords": ["api", "test"],
     "homepage": "http://extensions.behat.org",
     "license": "MIT",
-    "authors": [
-        {
+    "authors": [{
             "name": "Christophe Coevoet",
             "email": "stof@notk.org"
         },
@@ -31,7 +30,7 @@
 
     "autoload": {
         "psr-4": {
-            "Behat\\WebApiExtension\\": "src/"
+            "trackq\\WebApiExtension\\": "src/"
         }
     },
 
